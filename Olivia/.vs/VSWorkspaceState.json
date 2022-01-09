@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Olivia",
+    "\\Olivia\\Brain",
+    "\\Olivia\\Brain\\Frontal",
+    "\\Olivia\\Brain\\Frontal\\Knowledge",
+    "\\Olivia\\Brain\\Frontal\\Knowledge\\Implication",
+    "\\Olivia\\Brain\\Frontal\\Knowledge\\Implication\\Disjunction",
+    "\\Olivia\\Brain\\Frontal\\Knowledge\\Implication\\Disjunction\\Conjunction",
+    "\\Olivia\\Brain\\Frontal\\Knowledge\\Implication\\Disjunction\\Conjunction\\Clause",
+    "\\Olivia\\Brain\\Frontal\\Knowledge\\Implication\\Disjunction\\Conjunction\\Clause\\Literal"
+  ],
+  "PreviewInSolutionExplorer": false
+}
