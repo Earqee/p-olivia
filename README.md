@@ -1,6 +1,6 @@
 ## Descrição
 
-Olivia é um sistema de lógica e conhecimento implementado em C++. Ele oferece funcionalidades para representação e manipulação de regras lógicas e conhecimentos associados. O sistema é projetado para processar e avaliar implicações lógicas, conjunções e disjunções de cláusulas, fornecendo uma base para sistemas especialistas e raciocínio baseado em regras.
+Olivia é um módulo de lógica e conhecimento implementado em C++. Ele oferece funcionalidades para representação e manipulação de regras lógicas e conhecimentos associados. O sistema é projetado para processar e avaliar implicações lógicas, conjunções e disjunções de cláusulas, fornecendo uma base para sistemas especialistas e raciocínio baseado em regras.
 
 ## Funcionalidades Principais
 
