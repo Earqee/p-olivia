@@ -82,4 +82,4 @@ Olivia é um módulo de lógica e conhecimento implementado em C++. Ele oferece 
 
 ## Observações
 
-Este projeto foi desenvolvido pelo discente em Engenharia de Computação Thiago José e revisado pelo Prof. Dr. Evandro de Barros.
+Este projeto foi desenvolvido pelo discente em Engenharia de Computação Thiago José e revisado pelo Prof. Dr. Evandro de Barros como projeto final da disciplina de Inteligência Artificial.
