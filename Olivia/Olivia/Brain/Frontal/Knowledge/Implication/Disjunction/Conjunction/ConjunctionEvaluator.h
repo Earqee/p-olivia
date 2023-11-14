@@ -54,6 +54,8 @@ public:
 		}
 
 		result = result / this->conjunction.getClauses().size();
+
+		return result;
 	}
 
 };
