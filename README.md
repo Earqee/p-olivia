@@ -80,22 +80,6 @@ Olivia é um módulo de lógica e conhecimento implementado em C++. Ele oferece 
 ( ( botulismo [grau 1] | botulismo [grau 2] | botulismo [grau 3] ) ^ desidratação ^ pneumonia ) => botulismo com complicações
 ```
 
-## Como Utilizar
-
-1. **Inclua os Arquivos Necessários:**
-   - Certifique-se de incluir os arquivos apropriados, como `Olivia.h`, `Database.h`, e outros, em seu projeto C++.
-
-2. **Crie Instâncias e Utilize as Funcionalidades:**
-   - Crie instâncias das classes representativas, como `Literal`, `Clause`, `Conjunction`, `Disjunction`, e `Implication`.
-   - Utilize as classes avaliadoras para avaliar a lógica dessas estruturas.
-
-3. **Gerencie Conhecimento com o `Brain`:**
-   - Utilize o `Brain` para armazenar e gerenciar conhecimentos.
-   - Inclua a classe `Log` para rastrear o progresso e identificar possíveis erros.
-
-4. **Leia Dados com a Classe `Database`:**
-   - Utilize a classe `Database` para carregar dados a partir de arquivos de texto.
-
 ## Observações
 
-Este projeto foi desenvolvido pelo discente em Engenharia de Computação Thiago José e revisado pelo Prof. Dr. Leandro Dias.
+Este projeto foi desenvolvido pelo discente em Engenharia de Computação Thiago José e revisado pelo Prof. Dr. Evandro de Barros.
